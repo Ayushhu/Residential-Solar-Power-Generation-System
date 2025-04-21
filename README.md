@@ -26,7 +26,7 @@ The universal bridge is a key component in the inverter circuit. It converts the
 7. IGBT Diode
 The Insulated Gate Bipolar Transistor (IGBT) diode is utilized for controlling the flow of current through the circuit, enabling efficient energy conversion.
 
-Usage:
+For Educational Usage:
 To simulate and analyze the performance of this home solar power system, follow these steps:
 
 Open the Simulink Project: Open the project using MATLAB/Simulink.
@@ -37,9 +37,6 @@ Run Simulation: Run the simulation to observe the behavior and performance of th
 
 Analyze Results: Examine the simulation results to assess energy production, efficiency, and any potential improvements.
 
-Notes:
-This project is intended for educational and demonstrative purposes and can be further extended or customized for real-world applications.
-
-Ensure that the components used in your physical setup meet safety and efficiency standards.
+Precautions : Ensure that the components used in your physical setup meet safety and efficiency standards.
 
 Feel free to contribute, report issues, or suggest improvements to this project!
