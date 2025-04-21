@@ -41,5 +41,5 @@ To simulate and analyze the performance of this home solar power system, follow 
 
 Feel free to contribute, report issues, or suggest improvements to this project!
 
-Warm Regards,
+Warm Regards
 Ayush Kumar Mishra
