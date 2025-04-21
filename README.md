@@ -5,25 +5,25 @@ This repository contains the Simulink Block diagram of a Solar Power Generation 
 The project utilizes various electronic components to harness and convert solar energy into usable electrical power.
 
 Components:
-1. Solar Panel
+1. Solar Panel :
 The solar panel serves as the primary source of energy in this system. It absorbs sunlight and converts it into direct current (DC) electricity.
 
-2. Resistor
+2. Resistor :
 The resistor is used to limit the current flowing through the circuit, ensuring safe operation and preventing damage to the components.
 
-3. Inductor
+3. Inductor :
 The inductor is employed to smooth out the current flow and reduce voltage fluctuations in the system.
 
-4. Passive Filter
+4. Passive Filter :
 The passive filter helps in reducing unwanted harmonics and noise in the electrical signal, ensuring a cleaner and more stable output.
 
-5. Diode
+5. Diode :
 The diode acts as a one-way valve, allowing the flow of current in a single direction. It prevents reverse current flow from the battery to the solar panel.
 
 6. Universal Bridge
 The universal bridge is a key component in the inverter circuit. It converts the DC electricity from the solar panel into alternating current (AC) suitable for household use.
 
-7. IGBT Diode
+7. IGBT Diode :
 The Insulated Gate Bipolar Transistor (IGBT) diode is utilized for controlling the flow of current through the circuit, enabling efficient energy conversion.
 
 For Educational Usage:
