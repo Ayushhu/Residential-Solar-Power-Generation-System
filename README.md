@@ -29,13 +29,13 @@ The Insulated Gate Bipolar Transistor (IGBT) diode is utilized for controlling t
 For Educational Usage:
 To simulate and analyze the performance of this home solar power system, follow these steps:
 
-1. Open the Simulink Project: Open the project using MATLAB/Simulink.
+1. Open the Simulink Project : Open the project using MATLAB/Simulink.
 
-2. Set Parameters: Adjust system parameters such as panel capacity, load demand, and inverter specifications as needed.
+2. Set Parameters : Adjust system parameters such as panel capacity, load demand, and inverter specifications as needed.
 
-3. Run Simulation: Run the simulation to observe the behavior and performance of the solar power system.
+3. Run Simulation : Run the simulation to observe the behavior and performance of the solar power system.
 
-4. Analyze Results: Examine the simulation results to assess energy production, efficiency, and any potential improvements.
+4. Analyze Results : Examine the simulation results to assess energy production, efficiency, and any potential improvements.
 
 5. Precautions : Ensure that the components used in your physical setup meet safety and efficiency standards.
 
