@@ -1,5 +1,5 @@
 # Residential-Solar-Power-Generation-System
-This repository contains the Simulink Block diagram of a Solar Power generation system used at residential areas and homes. The diagram is as follows:
+This repository contains the Simulink Block diagram of a Solar Power Generation System used at residential areas and homes. The diagram is as follows:
 
 ![Screenshot 2023-10-15 141232](https://github.com/Ayushhu/Residential-Solar-Power-Generation-System/blob/main/Screenshot%202023-10-15%20141232.png)
 The project utilizes various electronic components to harness and convert solar energy into usable electrical power.
@@ -40,3 +40,6 @@ To simulate and analyze the performance of this home solar power system, follow 
 5. Precautions : Ensure that the components used in your physical setup meet safety and efficiency standards.
 
 Feel free to contribute, report issues, or suggest improvements to this project!
+
+Warm Regards,
+Ayush Kumar Mishra
